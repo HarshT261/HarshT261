@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HarshT261
 - 👀 I’m interested in mostly nothing
-- 🌱 I’m currently learning MERN
+- 🌱 I’m currently working as a ServiceNow Developer
 - 📫 How to reach me harshty261@gmail.com
 - ⚡ Fun fact: ...
 
