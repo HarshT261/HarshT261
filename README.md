@@ -2,7 +2,8 @@
 - 👀 I’m interested in mostly nothing
 - 🌱 I’m currently working as a ServiceNow Developer
 - 📫 How to reach me harshty261@gmail.com
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I dont like to code
+  
 
 <!---
 HarshT261/HarshT261 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
